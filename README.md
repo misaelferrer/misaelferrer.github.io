@@ -14,6 +14,17 @@ Badalona, Cataluña, España
 * Extraer, transformar, cargar (ETL)
 * Machine Learning
 
+## Skills
+* High-Performance Data Manipulation with SAS® DS2
+* SQL(MySQL, PostgreSQL, SQL Server, etc)
+* Redshift, Athena, Glue, BigQuery
+* Jupyter, Sagemaker, Vertex AI, Databricks
+* Pyspark, Pandas, Polars, Pentaho Data Integrations
+* EC2, Compute Engine, Azure VM
+* S3, Google Storage, Azure Blob Storage
+* DynamoDB, MongoDB
+* Python, Java, C++, PHP, Javascript
+
 ## Idiomas
 * Inglés (EFSET 27 Beginner CEFR A1)
 * Español
