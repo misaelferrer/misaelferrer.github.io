@@ -9,11 +9,6 @@ Badalona, Cataluña, España
 * misaelferrer@gmail.com
 * [www.linkedin.com/in/misael-ferrer-256802b5](www.linkedin.com/in/misael-ferrer-256802b5) (LinkedIn)
 
-## Aptitudes principales
-* Big Data Analyst
-* Extraer, transformar, cargar (ETL)
-* Machine Learning
-
 ## Skills
 * High-Performance Data Manipulation with SAS® DS2
 * SQL(MySQL, PostgreSQL, SQL Server, etc)
