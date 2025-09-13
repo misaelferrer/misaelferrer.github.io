@@ -11,7 +11,7 @@ Badalona, Cataluña, España
 
 ## Skills
 * High-Performance Data Manipulation with SAS® DATA step and DS2
-* SQL(MySQL, PostgreSQL, SQL Server, etc)
+* SQL(MySQL, PostgreSQL, SQL Server, Oracle, etc)
 * Redshift, Athena, Glue, BigQuery
 * SAS Viya, Jupyter, Sagemaker, Vertex AI, Databricks
 * Pyspark, Pandas, Polars, Pentaho Data Integrations
