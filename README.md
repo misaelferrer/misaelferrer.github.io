@@ -10,7 +10,7 @@ Badalona, Cataluña, España
 * [www.linkedin.com/in/misael-ferrer-256802b5](www.linkedin.com/in/misael-ferrer-256802b5) (LinkedIn)
 
 ## Skills
-* High-Performance Data Manipulation with SAS® DS2
+* High-Performance Data Manipulation with SAS® DATA step and DS2
 * SQL(MySQL, PostgreSQL, SQL Server, etc)
 * Redshift, Athena, Glue, BigQuery
 * Jupyter, Sagemaker, Vertex AI, Databricks
