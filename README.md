@@ -13,7 +13,7 @@ Badalona, Cataluña, España
 * High-Performance Data Manipulation with SAS® DATA step and DS2
 * SQL(MySQL, PostgreSQL, SQL Server, etc)
 * Redshift, Athena, Glue, BigQuery
-* Jupyter, Sagemaker, Vertex AI, Databricks
+* SAS Viya, Jupyter, Sagemaker, Vertex AI, Databricks
 * Pyspark, Pandas, Polars, Pentaho Data Integrations
 * EC2, Compute Engine, Azure VM
 * S3, Google Storage, Azure Blob Storage
